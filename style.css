@@ -11,9 +11,7 @@ body{
   justify-content: center;
   background: #262626;
 }
-ul{
-  display: flex;
-}
+
 ul li{
   position: relative;
   display: block;
